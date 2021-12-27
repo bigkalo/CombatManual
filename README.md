@@ -1,0 +1,2 @@
+# CombatManual
+Fight manual
